@@ -32,3 +32,17 @@ header .imagem-botao:hover{
     transform: scale(1.05);
     cursor: pointer;
 }
+
+main{
+    background-color: antiquewhite;
+    padding: 25px;
+}
+.listagem-pokemon{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+main .cartao-pokemon{
+    background-color: #d8e3ec;
+    width: 200px;
+}
