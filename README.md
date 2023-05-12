@@ -1,4 +1,6 @@
 # Lista de tarefas
 
-## 1 - Ajustar as divs
-### 2 - Estilizar as divs
+### 1 - Iniciar HTML
+### 2 - Separar Pokemons
+### 3 - Subscrever e definir 
+### 4 - Estilizar
