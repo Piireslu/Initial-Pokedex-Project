@@ -21,6 +21,7 @@ header{
 header .logo,
 header .imagem-botao{
     width: 30px;
+    transition: 0.2s ease-in-out;
 }
 header #botao-alterar-tema{
     background: none;
@@ -28,7 +29,8 @@ header #botao-alterar-tema{
 }
 
 header .logo:hover,
-header .imagem-botao:hover{
+header .imagem-botao:hover,
+main .cartao-pokemon:hover{
     transform: scale(1.05);
     cursor: pointer;
 }
@@ -56,6 +58,6 @@ main .cartao-pokemon{
     transition: 0.2s ease-in-out;
 }      
 
-main .cartao-pokemon{
+main .cartao-pokemon:hover{
     background-color: #96d9d6;
 }
