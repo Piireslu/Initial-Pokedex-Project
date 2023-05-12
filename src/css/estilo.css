@@ -37,9 +37,11 @@ main{
     background-color: antiquewhite;
     padding: 25px;
 }
-.listagem-pokemon{
+main .listagem-pokemon{
     display: flex;
     flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
 }
 
 main .cartao-pokemon{
