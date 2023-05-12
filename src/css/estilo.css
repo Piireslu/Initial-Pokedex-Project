@@ -53,4 +53,9 @@ main .cartao-pokemon{
     align-items: center;
     gap: 15px;
     border-radius: 15px;
+    transition: 0.2s ease-in-out;
 }      
+
+main .cartao-pokemon{
+    background-color: #96d9d6;
+}
