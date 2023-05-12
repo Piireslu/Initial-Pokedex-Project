@@ -47,4 +47,10 @@ main .listagem-pokemon{
 main .cartao-pokemon{
     background-color: #d8e3ec;
     width: 200px;
-}
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    border-radius: 15px;
+}      
