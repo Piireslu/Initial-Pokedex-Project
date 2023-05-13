@@ -113,3 +113,10 @@ mian .cartao-pokemon .tipo{
 .inseto{
     background-color: #a6b01a;
 }
+
+main .descricao{
+    max-height: 80px;
+    overflow-y: scroll; /*barra de rolagem*/
+    font-size: 14px; /*diminui o tamanho da fonte*/
+    padding-right: 10px; /*espaçamento na direita para não ficar colado no cartão*/ 
+}
