@@ -1,12 +1,12 @@
 
-### Resumo do projeto
+## Resumo do projeto
 
 Um Pokédex é uma enciclopédia eletrônica que contém informações sobre os Pokémon, incluindo suas características, habilidades, tipos, evoluções, locais de captura, entre outros dados. O objetivo principal do Pokédex é ajudar os treinadores a identificar e capturar novos Pokémon durante suas jornadas. Ao registrar um Pokémon no Pokédex, os treinadores podem aprender mais sobre as criaturas e aumentar seu conhecimento sobre o mundo Pokémon. Em alguns jogos da série Pokémon, completar a Pokédex é um objetivo secundário, recompensando os jogadores com itens raros ou outros benefícios
 <p>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-# 🛠️ Abrir e rodar o projeto
+## 🛠️ Abrir e rodar o projeto
 Após baixar o projeto, você pode abrir com o Vscode Studio ou outro editor padrão caso  prefira.
 
 ## 🔨 Funcionalidades do projeto
