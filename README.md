@@ -16,12 +16,12 @@ Após baixar o projeto, você pode abrir com o Vscode Studio ou outro editor pad
 - `Funcionalidade 3` `organização e gerenciamento das informações da Pokédex`: Uma terceira funcionalidade do Pokedex seria a capacidade de exibir informações detalhadas sobre cada Pokémon, incluindo suas estatísticas de batalha, habilidades, evoluções, movimentos, fraquezas e resistências. Isso permitiria que os treinadores Pokémon planejassem estratégias de batalha mais eficazes e tomassem decisões informadas sobre quais Pokémon incluir em sua equipe. Além disso, a exibição dessas informações pode ser útil para fins educacionais e de pesquisa sobre a biologia fictícia dos Pokémon.
 <br/>
 
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Técnicas e tecnologias utilizadas 
 
 - ``HTML5``
 - ``CSS``
 - ``JavaScript``
 
-## 📁 Acesso ao projeto
+## 📁 Acesso ao projeto                 <img src="./src/imagens/squirtle.gif" alt="Squirtle" class="gif">
 
 Você pode acessar o código fonte do projeto inicial ou baixá-lo no editor de código de sua preferência. 
