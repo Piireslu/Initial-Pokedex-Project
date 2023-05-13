@@ -1,5 +1,5 @@
 
-## Resumo do projeto
+## Resumo do projeto                 <img src="./src/imagens/bulbasaur.gif" alt="Bulbasaur" class="gif">
 
 Um Pokédex é uma enciclopédia eletrônica que contém informações sobre os Pokémon, incluindo suas características, habilidades, tipos, evoluções, locais de captura, entre outros dados. O objetivo principal do Pokédex é ajudar os treinadores a identificar e capturar novos Pokémon durante suas jornadas. Ao registrar um Pokémon no Pokédex, os treinadores podem aprender mais sobre as criaturas e aumentar seu conhecimento sobre o mundo Pokémon. Em alguns jogos da série Pokémon, completar a Pokédex é um objetivo secundário, recompensando os jogadores com itens raros ou outros benefícios
 <p>
