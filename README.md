@@ -24,4 +24,4 @@ Após baixar o projeto, você pode abrir com o Vscode Studio ou outro editor pad
 
 ## 📁 Acesso ao projeto
 
-Você pode acessar o código fonte do proeto inicial ou baixá-lo.
+Você pode acessar o código fonte do projeto inicial ou baixá-lo no seu editor de código de sua preferência. 
