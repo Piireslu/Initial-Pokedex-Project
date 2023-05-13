@@ -53,7 +53,7 @@ main .cartao-pokemon{
     flex-direction: column;
     align-items: center;
     gap: 15px;
-    border-radius: 15px;
+    border-radius: 15px; /*deixar as bordas redondinhas*/
     transition: 0.2s ease-in-out;
 }      
 
@@ -63,6 +63,53 @@ main .cartao-pokemon:hover{
 }
 
 .modo-escuro .cartao-pokemon{
+        /*estilizando a cor do cartão de fundo*/
     background-color: #a8a8a8;
-    /*estilizando a cor do cartão de fundo/*
+}
+main .cartao-pokemon .informacoes{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #333333;
+    border-radius: 10px; /*deixar as bordas dos nomes redondinhos*/
+}
+main .cartao-pokemon .informacoes span{
+    padding: 5px;
+    text-transform: uppercase; /*mudando o texto do nome para maiúscula*/
+    font-size: 17px; /*tamanho fonte*/
+}
+
+main .cartao-pokemon .gif{
+    /*unificar tamanho dos pokemons*/
+    width: 90px;
+    heigt: 90px;
+}
+
+main .cartao-pokemon .tipos{
+    display: flex;
+    gap: 15px;
+}
+
+mian .cartao-pokemon .tipo{
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.grama{
+    background-color: #7ac74c;
+}
+
+.veneno{
+    background-color: #df67ddfb;
+}
+
+.fogo{
+    background-color: #ee8130;
+}
+
+.agua{
+    background-color: #6390f0;
+}
+
+.inseto{
+    background-color: #a6b01a;
 }
