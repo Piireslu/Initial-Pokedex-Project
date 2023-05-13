@@ -7,7 +7,14 @@ Um Pokédex é uma enciclopédia eletrônica que contém informações sobre os 
 </p>
 
 ## 🛠️ Abrir e rodar o projeto
-Após baixar o projeto, você pode abrir com o Vscode Studio ou outro editor padrão caso  prefira.
+
+Baixe o projeto em seu computador.
+Abra o seu editor de código preferido, como o Visual Studio Code.
+Dentro do editor, abra a pasta do projeto.
+Verifique se todas as dependências necessárias estão instaladas, como pacotes de bibliotecas ou extensões do editor.
+Para executar o projeto, você pode usar um servidor local ou abrir o arquivo HTML diretamente em seu navegador.
+Certifique-se de seguir as instruções específicas do projeto, caso haja alguma, para garantir que ele seja executado corretamente.
+Dessa forma, você poderá ter certeza de que está executando o projeto corretamente e evitando possíveis problemas.
 
 ## 🔨 Funcionalidades do projeto
 
