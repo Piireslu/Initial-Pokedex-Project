@@ -12,7 +12,6 @@ body.modo-escuro{
 }
 
 header{
-    background-color: green;
     display: flex;
     justify-content: space-between;
     padding: 25px;
@@ -22,6 +21,7 @@ header .logo,
 header .imagem-botao{
     width: 30px;
     transition: 0.2s ease-in-out;
+    /*transição suave do logo*/
 }
 header #botao-alterar-tema{
     background: none;
@@ -36,7 +36,6 @@ main .cartao-pokemon:hover{
 }
 
 main{
-    background-color: antiquewhite;
     padding: 25px;
 }
 main .listagem-pokemon{
@@ -60,4 +59,10 @@ main .cartao-pokemon{
 
 main .cartao-pokemon:hover{
     background-color: #96d9d6;
+    /*coloquei uma regra específica para o rover porque quero que o background só troque no cartão*/
+}
+
+.modo-escuro .cartao-pokemon{
+    background-color: #a8a8a8;
+    /*estilizando a cor do cartão de fundo/*
 }
