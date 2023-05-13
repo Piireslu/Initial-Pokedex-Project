@@ -80,8 +80,8 @@ main .cartao-pokemon .informacoes span{
 
 main .cartao-pokemon .gif{
     /*unificar tamanho dos pokemons*/
-    width: 90px;
-    heigt: 90px;
+    width: 80px;
+    heigt: 80px;
 }
 
 main .cartao-pokemon .tipos{
