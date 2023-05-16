@@ -43,13 +43,13 @@ PT-BR <br/>
 - `Funcionalidade 3` `organização e gerenciamento das informações da Pokédex`: Uma terceira funcionalidade do Pokedex seria a capacidade de exibir informações detalhadas sobre cada Pokémon, incluindo suas estatísticas de batalha, habilidades, evoluções, movimentos, fraquezas e resistências. Isso permitiria que os treinadores Pokémon planejassem estratégias de batalha mais eficazes e tomassem decisões informadas sobre quais Pokémon incluir em sua equipe. Além disso, a exibição dessas informações pode ser útil para fins educacionais e de pesquisa sobre a biologia fictícia dos Pokémon.
 <br/>
 
-## ✔️ Técnicas e tecnologias utilizadas 
+## ✔️ Techniques and technologies used - Técnicas e tecnologias utilizadas 
 
 - ``HTML5``
 - ``CSS``
 - ``JavaScript``
 
-## ✔️ What do we need to do? (JavaScript)
+## ✔️ What do we need to do? (JavaScript) - O que precisamos fazer?
 When we click on the theme switch button, we need to change the page's theme color to either the light theme or the dark theme.
 
 Objective 1: When clicking on the theme switch button, add the "dark-mode" class to the body so that the styles of the dark mode are applied, and change the image to a moon.
@@ -66,7 +66,6 @@ Step 7: Remove the "dark-mode" class from the body.
 Step 8: Change the image of the theme switch button to a sun.
 <p>
 PT-BR <br/>
-## ✔️ O que precisamos fazer? (JavaScript) 
 	Quando clicarmos no botão de troca de tema temos que alterar a cor do tema da página para as cores do tema claro ou do tema escuro
 
 	- objetivo 1 - quando clicar no botão de troca de tema, adicionar a classe modo-escuro no body pra que os estilos do modo escuro sejam aplicados e mudar a imagem pra lua
