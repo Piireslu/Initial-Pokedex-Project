@@ -1,122 +1,122 @@
-body{
-    font-family: 'poppins', sans-serif;
-    max-width: 1280px;
-    margin: 0 auto;
-    background-color: #5e5b5bad;
-    color: #333333;
+body {
+	font-family: 'Poppins', sans-serif;
+	max-width: 1280px;
+	margin: 0 auto;
+	background-color: #5e5b5bad;
+	color: #333333;
 }
 
-body.modo-escuro{
-    background-color: #212121;
-    color: #f5f5f5;
+body.modo-escuro {
+	background-color: #212121;
+	color: #f5f5f5;
 }
 
-header{
-    display: flex;
-    justify-content: space-between;
-    padding: 25px;
+header {
+	display: flex;
+	justify-content: space-between;
+	padding: 25px;
 }
 
 header .logo,
-header .imagem-botao{
-    width: 30px;
-    transition: 0.2s ease-in-out;
-    /*transição suave do logo*/
+header .imagem-botao {
+	width: 30px;
+	transition: 0.2s ease-in-out;
 }
-header #botao-alterar-tema{
-    background: none;
-    border: none;
+
+header #botao-alterar-tema {
+	background: none;
+	border: none;
 }
 
 header .logo:hover,
 header .imagem-botao:hover,
-main .cartao-pokemon:hover{
-    transform: scale(1.05);
-    cursor: pointer;
+main .cartao-pokemon:hover {
+	transform: scale(1.05);
+	cursor: pointer;
 }
 
-main{
-    padding: 25px;
-}
-main .listagem-pokemon{
-    display: flex;
-    flex-wrap: wrap;
-    gap: 30px;
-    justify-content: center;
+main {
+	padding: 25px;
 }
 
-main .cartao-pokemon{
-    background-color: #d8e3ec;
-    width: 200px;
-    padding: 15px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 15px;
-    border-radius: 15px; /*deixar as bordas redondinhas*/
-    transition: 0.2s ease-in-out;
-}      
-
-main .cartao-pokemon:hover{
-    background-color: #96d9d6;
-    /*coloquei uma regra específica para o rover porque quero que o background só troque no cartão*/
+main .listagem-pokemon {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 30px;
+	justify-content: center;
 }
 
-.modo-escuro .cartao-pokemon{
-        /*estilizando a cor do cartão de fundo*/
-    background-color: #a8a8a8;
-}
-main .cartao-pokemon .informacoes{
-    display: flex;
-    justify-content: space-between;
-    border: 1px solid #333333;
-    border-radius: 10px; /*deixar as bordas dos nomes redondinhos*/
-}
-main .cartao-pokemon .informacoes span{
-    padding: 5px;
-    text-transform: uppercase; /*mudando o texto do nome para maiúscula*/
-    font-size: 17px; /*tamanho fonte*/
+main .cartao-pokemon {
+	background-color: #d8e3ec;
+	width: 200px;
+	padding: 15px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 15px;
+	border-radius: 15px;
+	transition: 0.2s ease-in-out;
 }
 
-main .cartao-pokemon .gif{
-    /*unificar tamanho dos pokemons*/
-    width: 80px;
-    heigt: 80px;
+main .cartao-pokemon:hover {
+	background-color: #96d9d6;
 }
 
-main .cartao-pokemon .tipos{
-    display: flex;
-    gap: 15px;
+.modo-escuro .cartao-pokemon {
+	background-color: #a8a8a8;
 }
 
-mian .cartao-pokemon .tipo{
-    padding: 8px;
-    border-radius: 10px;
+main .cartao-pokemon .informacoes {
+	display: flex;
+	justify-content: space-between;
+	border: 1px solid #333333;
+	border-radius: 10px;
 }
 
-.grama{
-    background-color: #7ac74c;
+main .cartao-pokemon .informacoes span {
+	padding: 5px;
+	text-transform: uppercase;
+	font-size: 17px;
 }
 
-.veneno{
-    background-color: #df67ddfb;
+main .cartao-pokemon .gif {
+	width: 90px;
+	height: 90px;
 }
 
-.fogo{
-    background-color: #ee8130;
+main .cartao-pokemon .tipos {
+	display: flex;
+	gap: 15px;
 }
 
-.agua{
-    background-color: #6390f0;
+main .cartao-pokemon .tipo {
+	padding: 8px;
+	border-radius: 10px;
 }
 
-.inseto{
-    background-color: #a6b01a;
+.grama {
+	background-color: #7ac74c;
 }
 
-main .descricao{
-    max-height: 80px;
-    overflow-y: scroll; /*barra de rolagem*/
-    font-size: 14px; /*diminui o tamanho da fonte*/
-    padding-right: 10px; /*espaçamento na direita para não ficar colado no cartão*/ 
+.veneno {
+	background-color: #df67ddfb;
+}
+
+.fogo {
+	background-color: #ee8130;
+}
+
+.agua {
+	background-color: #6390f0;
+}
+
+.inseto {
+	background-color: #a6b91a;
+}
+
+main .descricao {
+	max-height: 80px;
+	overflow-y: scroll;
+	font-size: 14px;
+	padding-right: 10px;
 }
