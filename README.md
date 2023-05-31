@@ -65,17 +65,18 @@ Step 6: Check if the body already has the "dark-mode" class.
 Step 7: Remove the "dark-mode" class from the body.
 Step 8: Change the image of the theme switch button to a sun.
 <p>
+
 PT-BR <br/>
 	Quando clicarmos no botão de troca de tema temos que alterar a cor do tema da página para as cores do tema claro ou do tema escuro
 
-	- objetivo 1 - quando clicar no botão de troca de tema, adicionar a classe modo-escuro no body pra que os estilos do modo escuro sejam aplicados e mudar a imagem pra lua
+Objetivo 1 - quando clicar no botão de troca de tema, adicionar a classe modo-escuro no body pra que os estilos do modo escuro sejam aplicados e mudar a imagem pra lua
         - passo 1 - pegar no JS o elemento HTML correspondente ao botão de troca de tema
         - passo 2 - dar um jeito de pegar no JS o elemento HTML corresponde ao body
         - passo 3 - dar um jeito de identificar o clique do usuário no botão de troca de tema
         - passo 4 - adicionar a classe modo-escuro no body
         - passo 5 - trocar a imagem do botão de alterar tema pra lua
     
-	- objetivo 2 - quando clicar no botão de troca de tema, caso o body já tenha a classe modo-escuro, remover a classe pra mudar pro modo claro e mudar a imagem pro sol
+Objetivo 2 - quando clicar no botão de troca de tema, caso o body já tenha a classe modo-escuro, remover a classe pra mudar pro modo claro e mudar a imagem pro sol
         - passo 6 - verificar se o body já tem a classe modo-escuro
         - passo 7 - remover a classe do modo-escuro do body
         - passo 8 - trocar a imagem do botão de alterar tema pra sol
@@ -91,3 +92,10 @@ You can access the source code of the initial project or download it in your pre
 <p>
 PT-BR <br/>
 Você pode acessar o código fonte do projeto inicial ou baixá-lo no editor de código de sua preferência. 
+
+## Referências
+
+- [W3Schools referência HTML](https://www.w3schools.com/tags/default.asp)
+- [W3Schools referência CSS](https://www.w3schools.com/cssref/default.asp)
+- [Google Fonts](https://fonts.google.com/)
+- [MDN lista de eventos](https://developer.mozilla.org/en-US/docs/Web/Events)
