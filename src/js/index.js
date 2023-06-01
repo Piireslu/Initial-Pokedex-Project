@@ -12,4 +12,4 @@ botaoAlterarTema.addEventListener("click", () => {
   } else {
     imagemBotaoTrocaDeTema.setAttribute("src", "./src/imagens/moon.png");
   }
-});
+});     
